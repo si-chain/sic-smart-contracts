@@ -4,7 +4,7 @@
 
 The sic-smart-contracts is EOSIO smart contract in the SIC system.
 
-##Getting Started
+## Getting Started
 
 *if you want to compile the code in you computer, you must have install the [EOSIO](https://github.com/EOSIO/eos), and get the eoscpp*
 
@@ -14,7 +14,7 @@ The sic-smart-contracts is EOSIO smart contract in the SIC system.
 
 **set contract** : all the other action, you can find the Documents in [eos smart contracts](https://github.com/EOSIO/eos/wiki/Smart%20Contract)
 
-##Smart Contract List
+## Smart Contract List
 
 There are currently the following contracts：
 
