@@ -30,3 +30,6 @@
 *.exe
 *.out
 *.app
+
+# for the EOSIO smart contract
+*.wast
