@@ -27,4 +27,5 @@ There are currently the following contracts：
 
 To find out more about each contract, see the readme.md in each contract's directory
 
-
+## NOTE:
+Now the contract is tested in version Dawn 3.0. When the EOSIO Dawn 4.0 si stable, we will change the contract to Dawn 4.0.
