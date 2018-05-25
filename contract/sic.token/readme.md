@@ -11,10 +11,10 @@
 #### action                                                               
   * issue：issue the SIC to the one account:                                                        
     * format: '["receiver","SIC's amount "]';                          
-    * auth：contract's permission;                                                      
+    * auth: contract's permission;                                                      
   * transfer： transfer to some one:                                                
     * format: '["from","to","SIC's amount"]';                                           
-    * auth：from's permission;                                                       
+    * auth: from's permission;                                                       
   * withdraw：withdraw( only withdraw 1000 SIC everytime, and only withdraw once per 2 hours ) 
     * format: '["user","SIC's amount"]'；                        
     * auth: user's permission;                                                           
@@ -26,4 +26,4 @@
     * auth：contract's permission;
   * setwithdraw: freeze the withdraw:
     * format: '[0 or 1]';
-    * auth：contract's permission;
+    * auth: contract's permission;
